@@ -8,3 +8,4 @@ App para visita crianças em orfanatos, backend da aplicação em NodeJS
 ### Tecnologia Utilizadas 
 - Node
 - TypeORM
+- TypeScript
